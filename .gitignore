@@ -1,0 +1,22 @@
+# Virtual Environment
+.venv/
+__pycache__/
+*.pyc
+
+# OS Files
+.DS_Store
+
+# Large Datasets
+AIR CONDITIONER/
+Microwave/
+Refrigerator/
+Television/
+dataset/
+dataset_cropped/
+
+# Model Outputs
+outputs/
+*.pt
+
+# Environment Variables
+.env

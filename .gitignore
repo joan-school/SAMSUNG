@@ -15,8 +15,7 @@ dataset/
 dataset_cropped/
 
 # Model Outputs
-outputs/
-*.pt
+# (allowed to be uploaded)
 
 # Environment Variables
 .env
